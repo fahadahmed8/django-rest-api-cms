@@ -236,3 +236,6 @@ typings/
 # End of https://www.gitignore.io/api/node
 
 node_modules
+.gitignore
+yarn.lock
+package.json
